@@ -6,7 +6,7 @@ let DigitalToolmaker = "Doyle Turner"
 [Download Resume](http://doyleturner.net/DoyleTurner.pdf)
 
 ## Some works
-###Cross Domain Connection Tool
+### Cross Domain Connection Tool
 > A few years back the difficulty of working with SSMS across mulitple domains in an org (in this case for a Gov Office) prompted me to look into a command line solution to the problem. I wrote myself a small PS script to deal with the problem. A couple of things quickly became apparent.
 
 - The need for this to work with multiple SSMS versions was real
