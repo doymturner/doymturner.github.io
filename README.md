@@ -14,10 +14,6 @@ let ToolMaker = {
                  :label "Digital Tool Maker"})
 ```
 
-
-
-[Download Resume](http://doyleturner.net/DoyleTurner.pdf)
-
 ## Some works
 ### Cross Domain Connection Tool
 > A few years back the difficulty of working with SSMS across mulitple domains in an org (in this case for a Gov Office) prompted me to look into a command line solution to the problem. I wrote myself a small PS script to deal with the problem. A couple of things quickly became apparent.
