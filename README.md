@@ -1,6 +1,11 @@
 ```javascript
-let DigitalToolmaker = "Doyle Turner"
+let DigitalToolmaker = { 'name': 'Doyle Turner', 'label': 'Digital Tool Maker'}
 ```
+
+```clojure
+(def tool-maker {:name "Doyle Turner" :label "Digital Tool Maker"})
+```
+
 
 
 [Download Resume](http://doyleturner.net/DoyleTurner.pdf)
@@ -13,5 +18,5 @@ let DigitalToolmaker = "Doyle Turner"
 - Other people had the same issue
 - It might be fun to wrap this in something a little friendlier than a PS script.
 
-> [This happened](https://github.com/doymturner/CrossDomainConnectionTool) as a result.
+[This happened](https://github.com/doymturner/CrossDomainConnectionTool) as a result.
 ---
