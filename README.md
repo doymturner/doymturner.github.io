@@ -1,3 +1,4 @@
+#### JavaScript
 ```javascript
 let ToolMaker = {
     'name': 'Doyle Turner',
@@ -5,6 +6,7 @@ let ToolMaker = {
     }
 ```
 
+#### Clojure
 ```clojure
 (def tool-maker {:name "Doyle Turner"
                  :label "Digital Tool Maker"})
