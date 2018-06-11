@@ -1,3 +1,6 @@
+---
+title: Doyle Turner
+---
 [Download Resume](http://doyleturner.net/DoyleTurner.pdf)
 
 **JavaScript**
