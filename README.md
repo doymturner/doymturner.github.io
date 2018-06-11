@@ -1,9 +1,13 @@
 ```javascript
-let DigitalToolmaker = { 'name': 'Doyle Turner', 'label': 'Digital Tool Maker'}
+let ToolMaker = {
+    'name': 'Doyle Turner',
+    'label': 'Digital Tool Maker'
+    }
 ```
 
 ```clojure
-(def tool-maker {:name "Doyle Turner" :label "Digital Tool Maker"})
+(def tool-maker {:name "Doyle Turner"
+                 :label "Digital Tool Maker"})
 ```
 
 
