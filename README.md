@@ -1,4 +1,6 @@
-#### JavaScript
+[Download Resume](http://doyleturner.net/DoyleTurner.pdf)
+
+**JavaScript**
 ```javascript
 let ToolMaker = {
     'name': 'Doyle Turner',
@@ -6,7 +8,7 @@ let ToolMaker = {
     }
 ```
 
-#### Clojure
+**Clojure**
 ```clojure
 (def tool-maker {:name "Doyle Turner"
                  :label "Digital Tool Maker"})
