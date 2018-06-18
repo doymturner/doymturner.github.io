@@ -1,4 +1,4 @@
-[Download Resume](http://doyleturner.net/DoyleTurner.pdf)
+[Download Resume](http://doyleturner.net/DoyleTurner.pdf) [Contact](href="mailto:doymturner@hotmail.com")
 
 **JavaScript**
 ```javascript
