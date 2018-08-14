@@ -22,5 +22,5 @@ let ToolMaker = {
 - Other people had the same issue
 - It might be fun to wrap this in something a little friendlier than a PS script.
 
-[This happened](https://github.com/doymturner/CrossDomainConnectionTool) as a result.
+[This happened](https://github.com/0kN07/CrossDomainConnectionTool) as a result.
 ---
